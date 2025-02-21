@@ -1,0 +1,2 @@
+GET https://weather-api-557662975481.southamerica-east1.run.app/temp?CEP=13180000 HTTP/1.1
+Host: weather-api-557662975481.southamerica-east1.run.app
